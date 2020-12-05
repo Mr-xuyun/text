@@ -99,6 +99,7 @@ export default {
         this.postImg()
         
     },
+    //更改
     getRoundedCanvas (sourceCanvas) {
       
       var canvas = document.createElement('canvas');
